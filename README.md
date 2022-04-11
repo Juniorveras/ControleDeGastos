@@ -9,6 +9,8 @@ Feito com o intuito de reduzir o uso de excel, quero mais facilidade em gerir me
 **https://github.com/Juniorveras/ControleDeGastos** Ta bem feito de coração mesmo ✨ _especial_ ✨ melhorias fica a criterio de quem ta no GitHub.
 
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+          
 - 🔭 
 - 🌱 
 - 👯 
